@@ -1,0 +1,7 @@
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\bin\Debug\String_operations.exe.config
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\bin\Debug\String_operations.exe
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\bin\Debug\String_operations.pdb
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\obj\Debug\String_operations.csproj.AssemblyReference.cache
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\obj\Debug\String_operations.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\obj\Debug\String_operations.exe
+C:\Users\Юрий Острик\source\repos\String_operations\String_operations\obj\Debug\String_operations.pdb
